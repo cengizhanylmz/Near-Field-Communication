@@ -8,6 +8,11 @@ The embedded software part and the hardware part of the development board were c
  
 ![image](https://user-images.githubusercontent.com/71149855/204161134-d97ee533-19da-402d-8189-c4b28af26049.png)
 
+NFC03A1 Card Reader:
+
+![image](https://user-images.githubusercontent.com/71149855/204161213-eeb87376-5eea-4db4-8826-41fd81825569.png)
+
+
 
 
 
